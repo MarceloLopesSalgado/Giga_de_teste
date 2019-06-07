@@ -1,0 +1,12 @@
+appdirs==1.4.3
+packaging==16.8
+paho-mqtt==1.2
+peewee==2.10.1
+pyparsing==2.2.0
+pyserial==3.2.1
+requests==2.13.0
+six==1.10.0
+tinydb==3.7.0
+XBee==2.2.3
+Cython==0.28.4
+crcmod==1.7
